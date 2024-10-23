@@ -1,3 +1,4 @@
+package usingJavaInMySql;
 import java.sql.*;
 import com.github.javafaker.Faker;
 
